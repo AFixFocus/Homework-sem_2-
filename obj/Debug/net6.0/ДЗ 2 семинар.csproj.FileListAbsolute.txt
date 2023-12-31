@@ -1,0 +1,15 @@
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 2\ДЗ 2 семинар\bin\Debug\net6.0\ДЗ 2 семинар.exe
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 2\ДЗ 2 семинар\bin\Debug\net6.0\ДЗ 2 семинар.deps.json
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 2\ДЗ 2 семинар\bin\Debug\net6.0\ДЗ 2 семинар.runtimeconfig.json
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 2\ДЗ 2 семинар\bin\Debug\net6.0\ДЗ 2 семинар.dll
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 2\ДЗ 2 семинар\bin\Debug\net6.0\ДЗ 2 семинар.pdb
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 2\ДЗ 2 семинар\obj\Debug\net6.0\ДЗ 2 семинар.csproj.AssemblyReference.cache
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 2\ДЗ 2 семинар\obj\Debug\net6.0\ДЗ 2 семинар.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 2\ДЗ 2 семинар\obj\Debug\net6.0\ДЗ 2 семинар.AssemblyInfoInputs.cache
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 2\ДЗ 2 семинар\obj\Debug\net6.0\ДЗ 2 семинар.AssemblyInfo.cs
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 2\ДЗ 2 семинар\obj\Debug\net6.0\ДЗ 2 семинар.csproj.CoreCompileInputs.cache
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 2\ДЗ 2 семинар\obj\Debug\net6.0\ДЗ 2 семинар.dll
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 2\ДЗ 2 семинар\obj\Debug\net6.0\refint\ДЗ 2 семинар.dll
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 2\ДЗ 2 семинар\obj\Debug\net6.0\ДЗ 2 семинар.pdb
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 2\ДЗ 2 семинар\obj\Debug\net6.0\ДЗ 2 семинар.genruntimeconfig.cache
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 2\ДЗ 2 семинар\obj\Debug\net6.0\ref\ДЗ 2 семинар.dll
